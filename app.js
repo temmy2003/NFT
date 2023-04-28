@@ -54,6 +54,3 @@ creators.addEventListener('click' , function (){
     }
 })
 
-window.addEventListener('click' ,function() {
-    users.classList.add('active')
-})
