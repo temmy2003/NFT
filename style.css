@@ -593,11 +593,14 @@ i{
         display: block;
     }
     .center-img h1{
-        font-size: 40px;
+        font-size: 37px;
         color: white;
     }
     .center-img{
         height: 40vh;
+    }
+    .center-box{
+        margin-top: 10px;
     }
     .nft {
         width: 100%;
