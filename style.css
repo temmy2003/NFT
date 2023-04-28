@@ -585,7 +585,7 @@ i{
  @media screen and (max-width:576px) {
     .left-sec {
         width: 100%;
-        transform: translate(50vh);
+        transform: translate(100vh);
         z-index: 1;
         background-color: rgb(195, 191, 191);
     }
@@ -602,7 +602,7 @@ i{
     .nft {
         width: 100%;
         z-index: 1;
-        transform: translate(-50vh);
+        transform: translate(-100vh);
     }
     .search{
         width: 100%;
